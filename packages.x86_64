@@ -138,11 +138,13 @@ bluez-utils
 
 #browser
 firefox
+alg-firefox-settings
 
 #office
 libreoffice-fresh
 ttf-ms-fonts
 ttf-roboto
+alg-office-settings
 
 #media
 vlc
