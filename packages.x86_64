@@ -116,7 +116,7 @@ network-manager-applet
 #Installer
 grub
 calamares
-alg-mate-cala-config
+alg-xfce-cala-config
 os-prober
 
 #Arch Linux GUI MATE
