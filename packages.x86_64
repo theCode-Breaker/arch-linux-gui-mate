@@ -116,7 +116,7 @@ network-manager-applet
 #Installer
 grub
 calamares
-alg-xfce-cala-config
+alg-theme-cala-config
 os-prober
 
 #Arch Linux GUI MATE
@@ -159,3 +159,8 @@ qogir-gtk-theme-git
 
 #AUR
 paru
+
+#NVIDIA Drivers & Tools
+nvidia
+nvidia-utils
+nvidia-settings
