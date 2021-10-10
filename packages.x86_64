@@ -142,9 +142,14 @@ alg-firefox-settings
 
 #office
 libreoffice-fresh
+alg-office-settings
+
+#fonts
 ttf-ms-fonts
 ttf-roboto
-alg-office-settings
+noto-fonts
+noto-fonts-cjk
+noto-fonts-emoji
 
 #media
 vlc
