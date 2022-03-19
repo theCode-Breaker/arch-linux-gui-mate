@@ -112,6 +112,7 @@ xdg-user-dirs
 bash-completion
 networkmanager
 network-manager-applet
+virtualbox-guest-utils
 
 #Installer
 grub
@@ -126,6 +127,8 @@ mate-extra
 mate-tweak
 neofetch
 alg-mate-settings
+bluez-utils
+pulseaudio-bluetooth
 
 #Printing
 cups
